@@ -4,6 +4,7 @@ Please note this is a WIP. Test everything before use.
 
 ## TODOS
 
+- RPL text.txt
 - Test, test, test
 
 
