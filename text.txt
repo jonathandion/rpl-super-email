@@ -1,0 +1,41 @@
+If you wish to see this email in HTML format, please go to $formlink(campaignname())$
+
+The Art of Shaving
+The Brotherhood of Shaving
+
+Power. Precision. Perfection.
+Introducing our new Power Razor.
+Experience exquisite craftsmanship and the latest razor technology.
+
+Shop Now >
+$URL$-Textversion
+
+Save the Date
+October 16th - 18th
+Join Us In-Store for an Exclusive Power Razor Event*
+
+Find a Store >
+$URL-Store$-Textversion
+
+
+--------------------------------------------------------------
+
+Visit us on Facebook: http://www.facebook.com/theartofshaving Follow us on Twitter: http://www.twitter.com/theartofshaving
+
+--------------------------------------------------------------
+
+www.TheArtofShaving.com info@theartofshaving.com | 1 800 493-2212
+
+$cond(empty(lookup(TERMS_CONDITIONS)), nothing(), lookup(TERMS_CONDITIONS))$
+
+To make sure our news and offers are delivered to your inbox, please add news@perfectshave.theartofshaving.com to your email Address Book. If you are unable to see the message above, click here to view. Gillette and Fusion are trademarks of The Gillette Company, Boston, Massachusetts used under license by The Art of Shaving.
+
+To unsubscribe, please click here: https://brotherhood.theartofshaving.com/preferences/member/$lookup(RIID_)$/$securedigestashex(concat(lookup(RIID_),tA0s),MD5)$/unsubscribe
+
+(c) $todayformat(0, yyyy)$ Procter and Gamble. All rights reserved.
+
+---------------------------------------------------------------
+
+PRIVACY POLICY: www.pg.com/privacy/english/privacy_notice.html CONTACT US: http://www.theartofshaving.com/on/demandware.store/Sites-TAOS-Site/default/CustomerService-Show
+
+KeyID: $externalcampaigncode()$
