@@ -1,6 +1,6 @@
 # RPL Super email
 
-Please note this is a WIP. Test everything because using.
+Please note this is a WIP. Test everything before use.
 
 ## TODOS
 
