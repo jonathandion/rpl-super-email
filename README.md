@@ -9,7 +9,7 @@ Please note this is a WIP. Test everything before use.
 
 ## Useful RLP functions
 
-`RIID encrypted : ${messagedigest(RIID_?c + 'tA0s', "MD5","hex")}
+RIID encrypted : ${messagedigest(RIID_?c + 'tA0s', "MD5","hex")}
 
 RIID : ${RIID_?c + "tA0s"}
 
@@ -19,4 +19,4 @@ Date : ${.now?string("yyyy")}
 
 Terms : ${TERMS_CONDITIONS}
 
-First name : ${CONTACTS_LIST.FIRST_NAME}`
+First name : ${CONTACTS_LIST.FIRST_NAME}
