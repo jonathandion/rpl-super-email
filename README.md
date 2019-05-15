@@ -1,6 +1,6 @@
 # Super email
 
-email scripts [PLU](https://peoplelikeus.ca/)
+email scripts for [PLU](https://peoplelikeus.ca/)
 
 ## Usage
 
@@ -14,9 +14,11 @@ email scripts [PLU](https://peoplelikeus.ca/)
 
 ## Useful RLP functions
 
+```
 RIID encrypted : ${messagedigest(RIID_?c + 'tA0s', "MD5","hex")}
 RIID : ${RIID_?c + "tA0s"}
 Campaign Name : ${campaign.name}
 Date : ${.now?string("yyyy")}
 Terms : ${TERMS_CONDITIONS}
 First name : ${CONTACTS_LIST.FIRST_NAME}
+```
